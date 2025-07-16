@@ -91,12 +91,6 @@ flutter pub get
 flutter run
 Android/iOS 시뮬레이터 및 실기기에서 모두 동작합니다.
 
-📸 주요 화면 캡처
-
-<img width="1179" height="2556" alt="simulator_screenshot_944D57B3-07AC-41A7-896D-1D104CB280FD" src="https://github.com/user-attachments/assets/41417375-64a4-421e-aded-dd8cb1372bce" />
-<img width="1179" height="2556" alt="simulator_screenshot_B4F39EE6-BA01-471E-B982-12E27F5BE26B" src="https://github.com/user-attachments/assets/1741d794-8e41-41cb-8c60-033ff5e505fc" />
-<img width="1179" height="2556" alt="simulator_screenshot_0DB31401-34E5-4B0E-9E41-ED7E54D40313" src="https://github.com/user-attachments/assets/8c9fd863-2e3a-43f9-86cd-7f136ca3d41c" />
-
 📌 프로젝트 개요
 이 앱은 Flutter를 사용하여 제작한 기차 예매 애플리케이션입니다.
 사용자가 출발역과 도착역을 선택하고, 좌석을 직접 선택해 예매까지 완료할 수 있도록 직관적인 UI와 기능을 제공합니다.
