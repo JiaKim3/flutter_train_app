@@ -84,13 +84,6 @@ yaml
 
 ---
 
-## 💻 실행 방법
-
-```bash
-flutter pub get
-flutter run
-Android/iOS 시뮬레이터 및 실기기에서 모두 동작합니다.
-
 📌 프로젝트 개요
 이 앱은 Flutter를 사용하여 제작한 기차 예매 애플리케이션입니다.
 사용자가 출발역과 도착역을 선택하고, 좌석을 직접 선택해 예매까지 완료할 수 있도록 직관적인 UI와 기능을 제공합니다.
@@ -121,6 +114,15 @@ Custom Widget (StationBox)	코드 재사용성과 유지보수성 향상
 상태 관리 (setState) 를 적절히 사용하여 UI ↔ 데이터 동기화 학습
 조건부 렌더링 및 예외 처리 UX 구현 경험
 깃허브 업로드 및 README 문서화 능력 강화
+
+---
+
+## 💻 실행 방법
+
+```bash
+flutter pub get
+flutter run
+Android/iOS 시뮬레이터 및 실기기에서 모두 동작합니다.
 
 
 🧑‍💻 개발자 정보
